@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am taking a Fullstack Developer course and trying hard to achieve. Here are some of my fresh features. 📌 Please feel free to get in touch with me: tuncayermangm@gmail.com
+I am taking a Fullstack Developer course and trying hard to achieve. Here are some of my fresh features. 📌 Please feel free to get in touch with me:   tuncayermangm@gmail.com   https://www.linkedin.com/feed/
 
 
 ★ Fullstack Student:  💻 HTML5 | CSS3 | JavaScript | NodeJS | React | React Native | Django | SQLite | SASS | Bootstrap 

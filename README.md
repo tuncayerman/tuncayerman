@@ -5,7 +5,7 @@ E-mail  : tuncayermangm@gmail.com
 LinkedIn: https://www.linkedin.com/in/tuncay-erman/
 
 
-★ Fullstack Student:  💻 HTML5 | CSS3 | JavaScript | NodeJS | React | React Native | Django | SQLite | SASS | Bootstrap 
+★ Fullstack Student:  💻 HTML5 | CSS3 | JavaScript | React | React Native | NodeJS |Django | MongoDB | SQLite | SASS | Bootstrap |
 
 ★ Tools: Git, GitHub, Jira , VsCode, Slack, Discord
 

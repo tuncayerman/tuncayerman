@@ -7,13 +7,13 @@ LinkedIn: https://www.linkedin.com/in/tuncay-erman/
 
 ★ Fullstack Student:  💻 HTML5 | CSS3 | JavaScript | React | React Native | NodeJS |Django | MongoDB | SQLite | SASS | Bootstrap |
 
-★ Tools: Git, GitHub, Jira , VsCode, Slack, Discord
+★ Operating Systems: MacOs, Windows, Linux
 
-★ Operating Systems: Linux, Windows, MacOs 
+★ Tools: Git, GitHub, VsCode, Jira, Slack, Discord, Ms Office (Word, Excell, Powerpoint), Jupyter Lab, Jupyter Notebook
 
 ★ Methodologies: Agile, Scrum 
 
-★ Photoshop
+★ Photo Editing: Photoshop
 
 <!--
 **E2295-Tuncay/E2295-Tuncay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

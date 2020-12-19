@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username=E2295-Tuncay&show_icons=true&theme=radical
+
 I am taking a Fullstack Developer course and trying hard to achieve. Here are some of my fresh features. 📌 Please feel free to get in touch with me.
 E-mail  : tuncayermangm@gmail.com
 LinkedIn: https://www.linkedin.com/in/tuncay-erman/

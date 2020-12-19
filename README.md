@@ -1,3 +1,4 @@
+#
 ### Hi there 👋
 
 I am taking a Fullstack Developer course and trying hard to achieve. 
@@ -8,8 +9,6 @@ I am taking a Fullstack Developer course and trying hard to achieve.
 E-mail  : tuncayermangm@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/tuncay-erman/
 #
-
-<br>
 
 Here are some of my skills. 
 

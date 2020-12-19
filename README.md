@@ -2,10 +2,13 @@
 
 I am taking a Fullstack Developer course and trying hard to achieve. 
 
+<br><br>
+
 📌 Please feel free to get in touch with me.
 E-mail  : tuncayermangm@gmail.com
 LinkedIn: https://www.linkedin.com/in/tuncay-erman/
 
+<br><br><br>
 
 Here are some of my skills. 
 
@@ -18,6 +21,8 @@ Here are some of my skills.
 ★ Methodologies: Agile, Scrum 
 
 ★ Photo Editing: Photoshop
+
+<br><br><br>
 
 <!--
 **E2295-Tuncay/E2295-Tuncay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

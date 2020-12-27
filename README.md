@@ -1,7 +1,7 @@
 #
 ### Hi there 👋
 
-I am taking a Fullstack Developer course and trying hard to achieve. 
+I am a Fullstack Developer. 
 
 <br>
 
@@ -16,7 +16,7 @@ Here are some of my skills.
 
 ★ Operating Systems: MacOs, Windows, Linux
 
-★ Tools: Git, GitHub, VsCode, Jira, Slack, Discord, Ms Office (Word, Excell, Powerpoint), Jupyter Lab, Jupyter Notebook
+★ Tools: Git, GitHub, VsCode, Jira, Slack, Discord, Ms Office, Jupyter Lab, Jupyter Notebook
 
 ★ Methodologies: Agile, Scrum 
 

@@ -12,7 +12,7 @@ I am a Fullstack Developer.
 
 Here are some of my skills. 
 
-★ Fullstack Developer  💻 HTML5 | CSS3 | JavaScript | React | React Native | NodeJS |Django | MongoDB | SQLite | SASS | Bootstrap |
+★ Fullstack Developer: HTML5 | CSS3 | JavaScript | React | React Native | NodeJS |Django | MongoDB | SQLite | SASS | Bootstrap |
 
 ★ Operating Systems: MacOs, Windows, Linux
 

@@ -7,7 +7,7 @@ I am a Fullstack Developer.
 
 📌  Please feel free to get in touch with me.<br>
   E-mail  : tuncayermangm@gmail.com<br>
-  LinkedIn: https://www.linkedin.com/in/tuncay-erman/
+  LinkedIn: https://www.linkedin.com/in/tuncayerman/
 #
 
 Here are some of my skills. 
